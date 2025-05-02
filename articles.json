@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Engagement environnemental",
+    "date": "25/03/25",
+    "resume": "Notre entreprise est engagée dans une démarche éco-responsable visant à réduire notre empreinte écologique, notamment par la gestion des déchets et l'utilisation de produits verts.",
+    "image": "environmental-commitment.png",
+    "content": "<p>Chez <strong>Alliance Services Propreté</strong>, nous considérons l’impact environnemental de nos activités comme une priorité. Nos engagements incluent :</p><ul><li>La <strong>réduction de notre empreinte carbone</strong> grâce à des véhicules moins polluants.</li><li>L’usage de <strong>produits d’entretien éco-labellisés</strong>.</li><li>Une gestion optimisée des déchets, notamment le recyclage systématique des consommables.</li></ul><p>Cette démarche s’inscrit dans notre volonté d’allier performance économique et responsabilité sociétale.</p>"
+  },
+  {
+    "id": 2,
+    "title": "Partenariat avec le GEIQ",
+    "date": "10/02/25",
+    "resume": "En partenariat avec le GEIQ, nous soutenons des actions de recrutement et d’intégration pour des jeunes talents dans le secteur de la propreté.",
+    "image": "geiq-partnership.png",
+    "content": "<p>Dans le cadre de notre politique RH, nous avons signé une convention de partenariat avec le <strong>GEIQ Propreté</strong>. Ce partenariat permet :</p><ul><li>Une <strong>insertion professionnelle durable</strong> pour les jeunes éloignés de l’emploi.</li><li>Un <strong>accompagnement sur mesure</strong> avec des formations qualifiantes.</li><li>Une meilleure adaptation aux besoins spécifiques de notre secteur.</li></ul><p>Nous sommes fiers de participer à cette initiative sociale et solidaire.</p>"
+  },
+  {
+    "id": 3,
+    "title": "Formation continue des équipes",
+    "date": "15/01/25",
+    "resume": "Nous investissons dans la formation continue pour nos équipes...",
+    "image": "team-training.png",
+    "content": "<p>Dans un secteur en constante évolution, la <strong>montée en compétences</strong> est essentielle. C’est pourquoi nous avons renforcé notre plan de formation :</p><ul><li>Sessions régulières sur les <strong>nouvelles techniques de nettoyage</strong>.</li><li>Modules spécifiques dédiés à la <strong>relation client</strong>.</li><li>Formations à la sécurité et aux <strong>gestes éco-responsables</strong>.</li></ul><p>Nos collaborateurs sont ainsi mieux préparés pour offrir un service de qualité, dans le respect des valeurs de l’entreprise.</p>"
+  },
+  {
+    "id": 4,
+    "title": "Acquisition du label Alsace Excellence",
+    "date": "02/12/24",
+    "resume": "Nous sommes fiers d’annoncer que notre engagement en faveur de la qualité...",
+    "image": "cleaning-office.png",
+    "content": "<p>Alliance Services Propreté a obtenu le <strong>label Alsace Excellence</strong>, récompensant notre engagement en matière :</p><ul><li>De <strong>gouvernance responsable</strong>.</li><li>De qualité de service et satisfaction client.</li><li>De <strong>respect de l’environnement</strong> et des normes sociales.</li></ul><p>Ce label marque une étape importante dans notre développement et confirme notre volonté d’agir pour une propreté durable et respectueuse de tous.</p>"
+  }
+]
